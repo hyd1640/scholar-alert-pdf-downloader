@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scholar Alert PDF Downloader"
+  short_description: "黄远东-整理 Scholar 快讯，并用开放访问与登录轮次下载论文 PDF。"
+  default_prompt: "Use $scholar-alert-pdf-downloader to整理 Google Scholar 邮件快讯、生成论文 Excel，先下载 MDPI/arXiv/Copernicus/Preprints 等开放访问 PDF，再按出版商登录轮次循环下载剩余 PDF。"
